@@ -9,7 +9,7 @@ project source: https://github.com/user3xample/pomodoro
 
 # What is the Pomodoro Technique?
 
-The Pomodoro Technique was developed in the late 1980s by then university student Francesco Cirillo. Cirillo was struggling to focus on his studies and complete assignments. Feeling overwhelmed, he asked himself to commit to just 10 minutes of focused study time. Encouraged by the challenge, he found a tomato (pomodoro in Italian) shaped kitchen timer, and the Pomodoro technique was born.
+### The Pomodoro Technique was developed in the late 1980s by then university student Francesco Cirillo. Cirillo was struggling to focus on his studies and complete assignments. Feeling overwhelmed, he asked himself to commit to just 10 minutes of focused study time. Encouraged by the challenge, he found a tomato (pomodoro in Italian) shaped kitchen timer, and the Pomodoro technique was born.
 
 ---
 
@@ -23,9 +23,9 @@ The 25-minute work sprints are the core of the method, but a Pomodoro practice a
 
 1.  Break down complex projects. If a task requires more than four pomodoros, it needs to be divided into smaller, actionable steps. Sticking to this rule will help ensure you make clear progress on your projects.
 
-2.  Small tasks go together. Any tasks that will take less than one Pomodoro should be combined with other simple tasks. For example, "write rent check," "set vet appointment," and "read Pomodoro article" could go together in one session.
+2.  Small tasks go together. Any tasks that will take less than one Pomodoro should be combined with other simple tasks. 
 
-3.  Once a pomodoro is set, it must ring. The pomodoro is an indivisible unit of time and can not be broken, especially not to check incoming emails, team chats, or text messages. Any ideas, tasks, or requests that come up should be taken note of to come back to later. A digital task manager like Todoist is a great place for these, but pen and paper will do too.
+3.  Once a pomodoro is set, it must ring. The pomodoro is an indivisible unit of time and can not be broken.
 
 Please note:
 In the event of an unavoidable disruption, take your five-minute break and start again. Cirillo recommends that you track interruptions (internal or external) as they occur and reflect on how to avoid them in your next session.
