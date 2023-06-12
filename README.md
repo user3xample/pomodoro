@@ -1,6 +1,7 @@
 # ***pomodoro***
 
 
+![pomo_splash](https://github.com/user3xample/pomodoro/assets/84420892/ef4197d5-7d45-4420-8662-7b6c2d106fe5)
 
 ## "Pomodoro Technique timer with some speech chucked in for good measure."
 project source: https://github.com/user3xample/pomodoro
