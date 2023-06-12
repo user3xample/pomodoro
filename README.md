@@ -30,7 +30,7 @@ The 25-minute work sprints are the core of the method, but a Pomodoro practice a
 
 3.  Once a pomodoro is set, it must ring. The pomodoro is an indivisible unit of time and can not be broken.
 
-Please note:
+*Please note*:
 In the event of an unavoidable disruption, take your five-minute break and start again. Cirillo recommends that you track interruptions (internal or external) as they occur and reflect on how to avoid them in your next session.
 
 The rule applies even if you do finish your given task before the timer goes off.
