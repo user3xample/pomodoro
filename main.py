@@ -2,7 +2,7 @@
 #==============================================================================#
 # title             : pomodoro, main.py
 # Git               : https://github.com/user3xample/pomodoro
-# description       : Pomodoro Technique timer with some speach chucked in for good
+# description       : Pomodoro Technique timer with some speech chucked in for good
 #                     measure.
 # author            : Paul Abel
 # date              : 12/06/2023
