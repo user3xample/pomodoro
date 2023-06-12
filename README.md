@@ -14,6 +14,8 @@ project source: https://github.com/user3xample/pomodoro
 
 ---
 
+![IMG_20230612_231637.jpg](https://github.com/user3xample/pomodoro/assets/84420892/a774eea3-4017-4317-b1f0-b491a50eba95)
+
 ## How it Works:
 + Start our timer for 25 minutes, and focus on a single task until the timer is up.
 + We will mark off one pomodoro.
