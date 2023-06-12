@@ -7,7 +7,7 @@
 # author            : Paul Abel
 # date              : 12/06/2023
 # version           : 1.0
-# usage             : ./pomodoro
+# usage             : ./main.py
 # notes             : In development.
 # python_version    : Python 3, tested on 3.11
 # licence           : GNU General Public License v3.0
