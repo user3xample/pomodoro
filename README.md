@@ -43,3 +43,7 @@ If you dont want speach just comment out all the Say cmds.  if you want to remov
 Oh and also feel free to stick any other witty comments in the say cmds also.
 
 Enjoy and thanks for taking the time to look at this little project.
+
+---
+###### Acknowledgement: This code is my adaption of Day 28 code project of "Dr Angela Yu, 100 days of coding". https://www.udemy.com/course/100-days-of-code/
+###### Well worth a look and purchase.
